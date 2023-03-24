@@ -4,10 +4,10 @@
   A mysql database and application backend for an e-commerce site. Built using MySQL2, Express, Sequelize and dotenv.
 
   ## Installation
-  *npm init
-  *npm install mysql2
-  *npm install sequelize
-  *npm install dotenv
+  * npm init
+  * npm install mysql2
+  * npm install sequelize
+  * npm install dotenv
   
 
   ## Usage
